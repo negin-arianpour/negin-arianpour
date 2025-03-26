@@ -3,7 +3,7 @@
 ### 🚀AI Developer
 
 💡 **About Me:**  
-- 🔭 Currently working on `[Project Name]`  
+- 🔭 Currently working on stock market prediction with machine learning 
 - 🌱 Learning `[New Framework/Language]`  
 - 📫 Reach me at:na24622@essex.ac.uk
                   arianpour.negin1@gmail.com  
