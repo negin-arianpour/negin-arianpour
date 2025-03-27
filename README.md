@@ -6,7 +6,7 @@
 - 🔭 Currently working on stock market prediction with machine learning 
 - 🌱 Learning AWS,Azure  
 - 📫 Reach me at:na24622@essex.ac.uk
-                  arianpour.negin1@gmail.com  
+                   arianpour.negin1@gmail.com  
 - 💬 My interests:  AI, Blockchain, 
 
 ---
